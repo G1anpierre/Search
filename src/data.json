@@ -1,0 +1,32 @@
+{
+    "people": [
+        {
+            "id": "lm001",
+            "name": "Tony Luis Salvador",
+            "title_cat": "architect",
+            "intern": false,
+            "title": "Principal Landscape Architect"
+        },
+        {
+            "id": "lm002",
+            "name": "Gianpierre Fernandez",
+            "title_cat": "Front End Develor",
+            "intern": false,
+            "title": "Developer"
+        },
+        {
+            "id": "lm003",
+            "name": "Paolo Lulita",
+            "title_cat": "Tech Lead",
+            "intern": false,
+            "title": "Front End Leader"
+        },
+        {
+            "id": "lm004",
+            "name": "Diego Vinazza",
+            "title_cat": "Dance Teacher",
+            "intern": false,
+            "title": "Director"
+        }
+    ]
+}
